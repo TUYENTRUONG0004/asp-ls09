@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|c:\\users\\computer\\desktop\\06\\tdtbaikiemtragk\\tdtbaikiemtragk\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|solutionrelative:tdtbaikiemtragk\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|c:\\users\\computer\\desktop\\06\\tdtbaikiemtragk\\tdtbaikiemtragk\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|solutionrelative:tdtbaikiemtragk\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\tdtbaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|solutionrelative:tdtbaikiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\tdtbaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|solutionrelative:tdtbaikiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\tdtbaikiemtragk\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B3E7D2-56F3-4A95-ADC1-3A338B0CA761}|TdtBaiKiemTraGK\\TdtBaiKiemTraGK.csproj|solutionrelative:tdtbaikiemtragk\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "TdtBaiKiemTraGK\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TdtBaiKiemTraGK\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-26T02:57:39.527Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TdtBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TdtBaiKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:26:12.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TdtBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TdtBaiKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:25:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TdtBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TdtBaiKiemTraGK\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:25:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_TdtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeDocumentMoniker": "TdtBaiKiemTraGK\\Views\\Shared\\_TdtLayout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\TdtBaiKiemTraGK\\TdtBaiKiemTraGK\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeToolTip": "TdtBaiKiemTraGK\\Views\\Shared\\_TdtLayout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:24:44.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
